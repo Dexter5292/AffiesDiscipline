@@ -1,0 +1,23 @@
+unit dmSams_u;
+
+interface
+
+uses
+  SysUtils, Classes;
+
+type
+  TdmSams = class(TDataModule)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  dmSams: TdmSams;
+
+implementation
+
+{$R *.dfm}
+
+end.

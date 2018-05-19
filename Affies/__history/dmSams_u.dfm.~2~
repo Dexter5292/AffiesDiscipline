@@ -1,0 +1,29 @@
+object dmSams: TdmSams
+  OldCreateOrder = False
+  Height = 425
+  Width = 477
+  object conSams: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Martin\Doc' +
+      'uments\Afrikaans High Sasolburg_be.mdb;Mode=ReadWrite;Persist Se' +
+      'curity Info=False'
+    Mode = cmReadWrite
+    Provider = 'Microsoft.Jet.OLEDB.4.0'
+    Left = 24
+    Top = 16
+  end
+  object ADOTable1: TADOTable
+    Active = True
+    Connection = conSams
+    CursorType = ctStatic
+    TableName = 'PastelCustomerCategory'
+    Left = 80
+    Top = 48
+  end
+  object dsrSams: TDataSource
+    DataSet = ADOTable1
+    Left = 136
+    Top = 32
+  end
+end

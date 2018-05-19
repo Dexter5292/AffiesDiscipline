@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/17 14:51:37.151.pas,C:\Users\Martin\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\Martin\Desktop\Delphi Projects\Affies\discipline_u.pas</Transaction>
+    <Transaction>2018/05/17 14:51:37.151.dfm,C:\Users\Martin\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\Martin\Desktop\Delphi Projects\Affies\discipline_u.dfm</Transaction>
+    <Transaction>2018/05/17 14:51:47.098.dproj,C:\Users\Martin\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\Martin\Desktop\Delphi Projects\Affies\discipline_p.dproj</Transaction>
+    <Transaction>2018/05/17 15:02:36.844.pas,C:\Users\Martin\Desktop\Delphi Projects\Affies\Unit1.pas=C:\Users\Martin\Desktop\Delphi Projects\Affies\dmSams_u.pas</Transaction>
+    <Transaction>2018/05/17 15:02:36.844.dfm,C:\Users\Martin\Desktop\Delphi Projects\Affies\Unit1.dfm=C:\Users\Martin\Desktop\Delphi Projects\Affies\dmSams_u.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
